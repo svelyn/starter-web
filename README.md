@@ -7,9 +7,11 @@ showing how to use Git and Github together.
 sdfsdfsdfsdfsdfsdfsdf
 
 ## Purpose
+As stated above, the main purpose...
 
 Sample website with plenty of files for demos
 
 ## Hot to contribute
 
 ## Deployment
+This is a sample
