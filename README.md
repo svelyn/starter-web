@@ -15,3 +15,6 @@ Sample website with plenty of files for demos
 
 ## Deployment
 This is a sample
+
+### Copyright
+Test of adding copyright
